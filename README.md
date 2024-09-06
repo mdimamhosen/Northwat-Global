@@ -19,6 +19,7 @@ You can view the live site [here](https://northway--global.web.app/).
 - **Tailwind CSS**: Utility-first CSS framework for styling the application.
 - **React Icons**: Icon library used for adding visual icons (e.g., hamburger menu, arrow icon).
 - **Firebase Hosting**: Deployed using Firebase for hosting the website.
+- **Swiper Slider**: Slider used for presenting the list of countries in a visually engaging manner.
 
 ## Installation and Setup
 
